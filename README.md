@@ -28,11 +28,6 @@ EC2, S3, RDS, Route53, ELB, NLB, ECS, Lambda, API Gateway
 - Jenkins
 - Nginx, Docker
 
-### **Tools**
-
-- VS Code, IntelliJ, STS
-- Git, Github, CodeCommit, Sourcetree
-- Jira & Wiki Confluence, Teams, Slack
 
 
 ## 👩🏻‍💻 Projects
