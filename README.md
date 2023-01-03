@@ -17,8 +17,7 @@ I'm a Junior Frontend Developer 🐥
 ### **Backend**
 
 - JavaScript, TypeScript, Java
-- Node.js, Express, Spring Boot
-- Gradle
+- Node.js, Express
 
 ### **DevOps**
 
